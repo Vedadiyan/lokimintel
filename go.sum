@@ -1,0 +1,4 @@
+github.com/vedadiyan/lokiclient v0.0.2 h1:/VvPYRNJxlSzgtdPHa8vN80lUIEjaOVs5WggnOsbYQA=
+github.com/vedadiyan/lokiclient v0.0.2/go.mod h1:Et7I3uV8zrSBBbqh+YmmRMdLExxvBCAm4sRS6ofQ268=
+github.com/vedadiyan/mintel v0.0.0-20240826094129-654962ffd5ad h1:uX9c29gFXpQrZxoAvBB+nmlFiANzESWYmqxi5+eI73Q=
+github.com/vedadiyan/mintel v0.0.0-20240826094129-654962ffd5ad/go.mod h1:tWjRpi84BGuWy9KOmpRCOtBS2vibrOgsMSUMf9N0tYI=
